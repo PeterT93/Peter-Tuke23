@@ -1,1 +1,1 @@
-# Tuke23-
+Skoci mi dopredu, zmeni mi pesnicku
