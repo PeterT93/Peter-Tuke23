@@ -1,0 +1,2 @@
+Je velmi
+podcenena hra
