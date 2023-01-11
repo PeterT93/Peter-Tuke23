@@ -1,3 +1,4 @@
-.temp
-.output
-
+temp
+output
+*.exe
+*.bin
